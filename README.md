@@ -1,6 +1,13 @@
 # Controlling-Media-Player-in-PC-Using-Ultrasonic-Sensor
 The project allows users to control the media players in their PC from a distance using hand gestures without having to physically touch anything.<br>
 <b>Note:</b> As of now, only VLC player is compatible with the system.
+
+B.Tech Mini Project II
+
+Co-authored-by: Amlan Deep Nath https://github.com/amlannath95
+
+Co-authored-by: Rounoq Raj Phukan
+
 ## Components required
 - Arduino
 - Ultrasonic sensor
